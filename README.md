@@ -1,17 +1,17 @@
 # 🗳️ NLW Expert Notes 📝
-Este é um projeto de notas desenvolvido durante o evento NLW (Next Level Week) da Rocketseat 🚀. O aplicativo permite que os usuários criem, visualizem e excluam notas de maneira simples e eficiente.
+Este é um projeto de notas desenvolvido durante o evento NLW (Next Level Week) da Rocketseat 🚀. O aplicativo permite que os usuários criem, visualizem e excluam notas de maneira simples e eficiente.<br><br>
 
 
 ## 🖼️ Demonstração
 ![imagem de notas](src/assets/new-note.png)
-![imagem de notas](src/assets/notes.png)
+![imagem de notas](src/assets/notes.png)<br><br>
 
 
 ## 🔧 Tecnologias Utilizadas
 * **React**: Biblioteca para construção de interfaces de usuário.
 * **TypeScript**: Superset do JavaScript que adiciona tipagem estática.
 * **Tailwind CSS**: Framework CSS utilitário para estilização rápida.
-* **Vite**: Ferramenta de build rápida para projetos modernos de front-end.
+* **Vite**: Ferramenta de build rápida para projetos modernos de front-end.<br><br>
 
 
 ## ⚠️ Pré-requisitos
@@ -45,7 +45,7 @@ Antes de rodar o projeto, certifique-se de ter as seguintes ferramentas instalad
     Isso irá iniciar o Vite em modo de desenvolvimento e abrir o aplicativo no navegador 🌐.
 
 4. ### Acesse o aplicativo
-   Ao executar o projeto, no terminal irá aparecer o link de onde o projeto está rodando, basta clicar para visualizar o aplicativo 👀.
+   Ao executar o projeto, no terminal irá aparecer o link de onde o projeto está rodando, basta clicar para visualizar o aplicativo 👀.<br><br>
 
 
 ## 📜 Scripts
@@ -53,7 +53,7 @@ Aqui estão os scripts disponíveis para o projeto:
 
 * 🚀 **npm run dev**: Inicia o servidor de desenvolvimento.
 * 🔨 **npm run build**: Compila o projeto para produção.
-* 👨‍💻 **npm run preview**: Visualiza a versão compilada em produção localmente.
+* 👨‍💻 **npm run preview**: Visualiza a versão compilada em produção localmente.<br><br>
 
 
 ## 📦 Dependências
@@ -76,8 +76,8 @@ O projeto utiliza as seguintes dependências:
 * `postcss`: 8.4.35
 * `tailwindcss`: 3.4.1
 * `typescript`: 5.2.2
-* `vite`: 5.0.8
+* `vite`: 5.0.8<br><br>
 
 
-Licença 📝
+## Licença 📝
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
